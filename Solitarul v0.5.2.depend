@@ -1,0 +1,449 @@
+# depslib dependency file v1.0
+1575930073 source:d:\facultate\anul i\ip\proiect - solitarul\solitarul v1.2\main.cpp
+	<iostream>
+	<winbgim.h>
+	<stdlib.h>
+	<stack>
+	"Menus.h"
+	"SinglePlayer.h"
+
+1575930291 d:\facultate\anul i\ip\proiect - solitarul\solitarul v1.2\menus.h
+	<iostream>
+	<winbgim.h>
+	<stdlib.h>
+	<stack>
+	"SinglePlayer.h"
+	"PlayerVsPlayer.h"
+
+1575929493 d:\facultate\anul i\ip\proiect - solitarul\solitarul v1.2\singleplayer.h
+	<iostream>
+	<winbgim.h>
+	<stdlib.h>
+	<stack>
+	"Menus.h"
+
+1575930301 d:\facultate\anul i\ip\proiect - solitarul\solitarul v1.2\playervsplayer.h
+	<iostream>
+	<winbgim.h>
+	<stdlib.h>
+	<stack>
+	"SinglePlayer.h"
+	"Menus.h"
+
+1575991002 source:c:\donald\masinucid (1)\main.cpp
+	<iostream>
+	<winbgim.h>
+	<stdlib.h>
+	<stack>
+	"Menus.h"
+	"SinglePlayer.h"
+
+1575930291 c:\donald\masinucid (1)\menus.h
+	<iostream>
+	<winbgim.h>
+	<stdlib.h>
+	<stack>
+	"SinglePlayer.h"
+	"PlayerVsPlayer.h"
+
+1575991883 c:\donald\masinucid (1)\singleplayer.h
+	<iostream>
+	<winbgim.h>
+	<stdlib.h>
+	"Menus.h"
+	<fstream>
+
+1575969828 c:\donald\masinucid (1)\playervsplayer.h
+	<iostream>
+	<winbgim.h>
+	<stdlib.h>
+	<stack>
+	"SinglePlayer.h"
+	"Menus.h"
+
+1576013164 source:c:\users\robert\desktop\probaproiect\main.cpp
+	<iostream>
+	<winbgim.h>
+	<stdlib.h>
+	<stack>
+	"Menus.h"
+	"SinglePlayer.h"
+
+1575930291 c:\users\robert\desktop\probaproiect\menus.h
+	<iostream>
+	<winbgim.h>
+	<stdlib.h>
+	<stack>
+	"SinglePlayer.h"
+	"PlayerVsPlayer.h"
+
+1576007643 c:\users\robert\desktop\probaproiect\singleplayer.h
+	<iostream>
+	<winbgim.h>
+	<stdlib.h>
+	"Menus.h"
+	<fstream>
+
+1576013253 c:\users\robert\desktop\probaproiect\playervsplayer.h
+	<iostream>
+	<winbgim.h>
+	<stdlib.h>
+	<stack>
+	"SinglePlayer.h"
+	"Menus.h"
+
+1578488447 source:d:\facultate\anul i\ip\proiect - solitarul\solitarul v0.4\main.cpp
+	<iostream>
+	<winbgim.h>
+	<stdlib.h>
+	<stack>
+	"Menus.h"
+	"SinglePlayer.h"
+	"PvsPvsPvsP.h"
+
+1576601989 d:\facultate\anul i\ip\proiect - solitarul\solitarul v0.4\menus.h
+	<iostream>
+	<winbgim.h>
+	<stdlib.h>
+	<stack>
+	"SinglePlayer.h"
+	"PlayerVsPlayer.h"
+	"PvsPvsPvsP.h"
+
+1576601989 d:\facultate\anul i\ip\proiect - solitarul\solitarul v0.4\singleplayer.h
+	<iostream>
+	<winbgim.h>
+	<stdlib.h>
+	"Menus.h"
+	<fstream>
+
+1576601989 d:\facultate\anul i\ip\proiect - solitarul\solitarul v0.4\playervsplayer.h
+	<iostream>
+	<winbgim.h>
+	<stdlib.h>
+	<stack>
+	"SinglePlayer.h"
+	"Menus.h"
+
+1576601989 d:\facultate\anul i\ip\proiect - solitarul\solitarul v0.4\pvspvspvsp.h
+	"SinglePlayer.h"
+	"Menus.h"
+
+1578488701 source:c:\users\robert\desktop\solitarul_ip-master-1\main.cpp
+	<iostream>
+	<winbgim.h>
+	<stdlib.h>
+	<stack>
+	"Menus.h"
+	"SinglePlayer.h"
+	"PvsPvsPvsP.h"
+
+1578488701 c:\users\robert\desktop\solitarul_ip-master-1\menus.h
+	<iostream>
+	<winbgim.h>
+	<stdlib.h>
+	<stack>
+	"SinglePlayer.h"
+	"PlayerVsPlayer.h"
+	"PvsPvsPvsP.h"
+
+1578488701 c:\users\robert\desktop\solitarul_ip-master-1\singleplayer.h
+	<iostream>
+	<winbgim.h>
+	<stdlib.h>
+	"Menus.h"
+	<fstream>
+
+1578490996 c:\users\robert\desktop\solitarul_ip-master-1\playervsplayer.h
+	<iostream>
+	<winbgim.h>
+	<stdlib.h>
+	<stack>
+	"SinglePlayer.h"
+	"Menus.h"
+
+1578488701 c:\users\robert\desktop\solitarul_ip-master-1\pvspvspvsp.h
+	"SinglePlayer.h"
+	"Menus.h"
+
+1578862379 source:d:\facultate\anul i\ip\proiect - solitarul\solitarul v0.5.2\main.cpp
+	<iostream>
+	<winbgim.h>
+	<stdlib.h>
+	<stack>
+	<string>
+	<mmsystem.h>
+	"Menus.h"
+	"SinglePlayer.h"
+	"PlayerVsComputer.h"
+
+1578867023 d:\facultate\anul i\ip\proiect - solitarul\solitarul v0.5.2\menus.h
+	<iostream>
+	<winbgim.h>
+	<stdlib.h>
+	<stack>
+	"SinglePlayer.h"
+	"PlayerVsPlayer.h"
+	"PlayerVsComputer.h"
+
+1578859622 d:\facultate\anul i\ip\proiect - solitarul\solitarul v0.5.2\singleplayer.h
+	<iostream>
+	<winbgim.h>
+	<stdlib.h>
+	"Menus.h"
+	<fstream>
+
+1578854648 d:\facultate\anul i\ip\proiect - solitarul\solitarul v0.5.2\playervsplayer.h
+	<iostream>
+	<winbgim.h>
+	<stdlib.h>
+	<stack>
+	"SinglePlayer.h"
+	"Menus.h"
+
+1578518884 d:\facultate\anul i\ip\proiect - solitarul\solitarul v0.5.2\pvspvspvsp.h
+	"SinglePlayer.h"
+	"Menus.h"
+
+1578827858 d:\facultate\anul i\ip\proiect - solitarul\solitarul v0.5.2\playervscomputer.h
+	"SinglePlayer.h"
+	"Menus.h"
+
+1578825682 source:c:\users\robia\desktop\solitarul v0.6\main.cpp
+	<iostream>
+	<winbgim.h>
+	<stdlib.h>
+	<stack>
+	<string>
+	<mmsystem.h>
+	"Menus.h"
+	"SinglePlayer.h"
+	"PlayerVsComputer.h"
+
+1578826654 c:\users\robia\desktop\solitarul v0.6\menus.h
+	<iostream>
+	<winbgim.h>
+	<stdlib.h>
+	<stack>
+	"SinglePlayer.h"
+	"PlayerVsPlayer.h"
+	"PlayerVsComputer.h"
+
+1578821404 c:\users\robia\desktop\solitarul v0.6\singleplayer.h
+	<iostream>
+	<winbgim.h>
+	<stdlib.h>
+	"Menus.h"
+	<fstream>
+
+1578826649 c:\users\robia\desktop\solitarul v0.6\playervsplayer.h
+	<iostream>
+	<winbgim.h>
+	<stdlib.h>
+	<stack>
+	"SinglePlayer.h"
+	"Menus.h"
+
+1578827727 c:\users\robia\desktop\solitarul v0.6\playervscomputer.h
+	"SinglePlayer.h"
+	"Menus.h"
+
+1578862379 source:d:\facultate\anul i\ip\proiect - solitarul\solitarul v0.6\main.cpp
+	<iostream>
+	<winbgim.h>
+	<stdlib.h>
+	<stack>
+	<string>
+	<mmsystem.h>
+	"Menus.h"
+	"SinglePlayer.h"
+	"PlayerVsComputer.h"
+
+1578867023 d:\facultate\anul i\ip\proiect - solitarul\solitarul v0.6\menus.h
+	<iostream>
+	<winbgim.h>
+	<stdlib.h>
+	<stack>
+	"SinglePlayer.h"
+	"PlayerVsPlayer.h"
+	"PlayerVsComputer.h"
+
+1578859622 d:\facultate\anul i\ip\proiect - solitarul\solitarul v0.6\singleplayer.h
+	<iostream>
+	<winbgim.h>
+	<stdlib.h>
+	"Menus.h"
+	<fstream>
+
+1578911303 d:\facultate\anul i\ip\proiect - solitarul\solitarul v0.6\playervsplayer.h
+	<iostream>
+	<winbgim.h>
+	<stdlib.h>
+	<stack>
+	"SinglePlayer.h"
+	"Menus.h"
+
+1578827858 d:\facultate\anul i\ip\proiect - solitarul\solitarul v0.6\playervscomputer.h
+	"SinglePlayer.h"
+	"Menus.h"
+
+1579029660 source:d:\facultate\anul i\ip\proiect - solitarul\solitarul v0.7\main.cpp
+	<iostream>
+	<winbgim.h>
+	<stdlib.h>
+	<stack>
+	<string>
+	<mmsystem.h>
+	"Menus.h"
+	"SinglePlayer.h"
+	"PlayerVsComputer.h"
+
+1579030277 d:\facultate\anul i\ip\proiect - solitarul\solitarul v0.7\menus.h
+	<iostream>
+	<winbgim.h>
+	<stdlib.h>
+	<stack>
+	"SinglePlayer.h"
+	"PlayerVsPlayer.h"
+	"PlayerVsComputer.h"
+
+1579029576 d:\facultate\anul i\ip\proiect - solitarul\solitarul v0.7\singleplayer.h
+	<iostream>
+	<winbgim.h>
+	<stdlib.h>
+	"Menus.h"
+	<fstream>
+	<time.h>
+
+1579030499 d:\facultate\anul i\ip\proiect - solitarul\solitarul v0.7\playervsplayer.h
+	<iostream>
+	<winbgim.h>
+	<stdlib.h>
+	<stack>
+	"SinglePlayer.h"
+	"Menus.h"
+
+1579009660 d:\facultate\anul i\ip\proiect - solitarul\solitarul v0.7\playervscomputer.h
+	"SinglePlayer.h"
+	"Menus.h"
+
+1579072489 source:c:\users\robert\desktop\caddinpicioare\main.cpp
+	<iostream>
+	<winbgim.h>
+	<stdlib.h>
+	<stack>
+	<string>
+	<mmsystem.h>
+	"Menus.h"
+	"SinglePlayer.h"
+	"PlayerVsComputer.h"
+
+1579072841 c:\users\robert\desktop\caddinpicioare\menus.h
+	<iostream>
+	<winbgim.h>
+	<stdlib.h>
+	<stack>
+	"SinglePlayer.h"
+	"PlayerVsPlayer.h"
+	"PlayerVsComputer.h"
+
+1579035488 c:\users\robert\desktop\caddinpicioare\singleplayer.h
+	<iostream>
+	<winbgim.h>
+	<stdlib.h>
+	<time.h>
+	"Menus.h"
+	<fstream>
+
+1579072095 c:\users\robert\desktop\caddinpicioare\playervsplayer.h
+	<iostream>
+	<winbgim.h>
+	<stdlib.h>
+	<stack>
+	"SinglePlayer.h"
+	"Menus.h"
+
+1579031915 c:\users\robert\desktop\caddinpicioare\playervscomputer.h
+	"SinglePlayer.h"
+	"Menus.h"
+
+1579104689 source:c:\users\robia\desktop\solitarul_15.01\main.cpp
+	<iostream>
+	<winbgim.h>
+	<stdlib.h>
+	<stack>
+	<string>
+	<mmsystem.h>
+	"Menus.h"
+	"SinglePlayer.h"
+	"PlayerVsComputer.h"
+
+1579106531 c:\users\robia\desktop\solitarul_15.01\menus.h
+	<iostream>
+	<winbgim.h>
+	<stdlib.h>
+	<stack>
+	"SinglePlayer.h"
+	"PlayerVsPlayer.h"
+	"PlayerVsComputer.h"
+
+1579106372 c:\users\robia\desktop\solitarul_15.01\singleplayer.h
+	<iostream>
+	<winbgim.h>
+	<stdlib.h>
+	<time.h>
+	"Menus.h"
+	<fstream>
+
+1579085505 c:\users\robia\desktop\solitarul_15.01\playervsplayer.h
+	<iostream>
+	<winbgim.h>
+	<stdlib.h>
+	<stack>
+	"SinglePlayer.h"
+	"Menus.h"
+
+1579104664 c:\users\robia\desktop\solitarul_15.01\playervscomputer.h
+	"SinglePlayer.h"
+	"Menus.h"
+
+1579116690 source:c:\users\robert\desktop\e4_solitarul\gitsolitar\main.cpp
+	<iostream>
+	<winbgim.h>
+	<stdlib.h>
+	<stack>
+	<string>
+	<mmsystem.h>
+	"Menus.h"
+	"SinglePlayer.h"
+	"PlayerVsComputer.h"
+
+1579116690 c:\users\robert\desktop\e4_solitarul\gitsolitar\menus.h
+	<iostream>
+	<winbgim.h>
+	<stdlib.h>
+	<stack>
+	"SinglePlayer.h"
+	"PlayerVsPlayer.h"
+	"PlayerVsComputer.h"
+
+1579116690 c:\users\robert\desktop\e4_solitarul\gitsolitar\singleplayer.h
+	<iostream>
+	<winbgim.h>
+	<stdlib.h>
+	<time.h>
+	"Menus.h"
+	<fstream>
+
+1579116690 c:\users\robert\desktop\e4_solitarul\gitsolitar\playervsplayer.h
+	<iostream>
+	<winbgim.h>
+	<stdlib.h>
+	<stack>
+	"SinglePlayer.h"
+	"Menus.h"
+
+1579116690 c:\users\robert\desktop\e4_solitarul\gitsolitar\playervscomputer.h
+	"SinglePlayer.h"
+	"Menus.h"
+

@@ -1,0 +1,30 @@
+v0.1
+ - tabla singleplayer functionala (fara conditie de castig, game over,undo sau end turn) (Robert)
+ - tabla playervsplayer functionala (fara conditie de castig sau game over) (Robert)
+ - tabla pvspvspvsp functionala (fara conditie de castig sau game over) (Robert)
+ - meniu principal cu 
+	- buton "play" functional
+	- buton "exit" functional
+
+v0.2
+ - meniu de play partial functional
+	- buton lansare mod single player FUNCTIONAL (+desen tabla singleplayer)
+	- buton lansare mod playervsplayer FUNCTIONAL (+desen tabla playervsplayer)
+	- buton lansare mod pvspvspvsp (+desen tabla pvspvspvsp) (NEFUNCTIONAL)
+ - adaugat buton undo pentru singleplayer (+cateva mici modificari la functia lui robert)
+ - adaugat buton undo + end turn pentru playerVsplayer (+cateva mici modificari la functia lui robert)
+ - organizare functii pe headers
+
+v0.3
+ - adaugat conditie de castig la singleplayer
+ - adaugat animatii in mainMenu
+
+v0.4
+ - schimbat rezolutie la hd (1280x720)
+ - adaugat conditie de castig la PlayerVsPlayer
+ - meniu de play partial functional
+	- buton lansare mod pvspvspvsp (+desen tabla pvspvspvsp)
+	- butoane cu functie de hover la mouse
+ - meniu principal
+	- butoane cu functie de hover la mouse
+	
